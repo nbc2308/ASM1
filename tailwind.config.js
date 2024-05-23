@@ -14,6 +14,9 @@ module.exports = {
         textPColor: "#4A4A4A",
         textSColor: "#FFFFFF",
       },
+      placeholderColor: {
+        white: "#FFFFFF", // Thêm màu trắng cho placeholder
+      },
     },
   },
   plugins: [],
